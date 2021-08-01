@@ -85,3 +85,17 @@ footer {
   height: 200px;
   padding-top: 50px;
 }
+
+.how-it-works {
+  display: flex;
+  margin-left: 450px;
+}
+
+.how-it-works img {
+  height: 100px;
+}
+
+.one-of-three {
+  width: 20%;
+  margin: 20px;
+}
